@@ -1,5 +1,5 @@
 # Day3_Context
-Live demo Link:
+##Live demo Link: https://aarohias.github.io/Day2_Context/
 # AI Explained Simply: Interactive Demos
 
 Small, single-file interactive demos that explain how AI assistants behave at work. Each demo is one HTML page with no build step and no dependencies.
@@ -13,12 +13,6 @@ Small, single-file interactive demos that explain how AI assistants behave at wo
 | **Context** (blue & white) | `ai-context-demo-human.html` | The same question gets different answers depending on who is asking. Switch between a new joiner and a manager, and between "Just guesses", "Knows the person" and "Asks first". |
 | **Context** (light green) | `ai-context-demo.html` | The same idea in a light green theme, with fact cards that light up when context is available. |
 | **Tools** (light green) | `ai-tools-demo.html` | The difference between an AI that only talks and one that can act, using a "book my leave" example with four tool steps. |
-
-## Live demo
-
-- Context demo: https://claude.ai/artifact/Rf8aXcHVx2v1sRAhLZyApX
-- Tools demo: https://claude.ai/artifact/QpYtvjcSJT59ib8eULkBKw
-- Context demo (green): https://claude.ai/artifact/JYDyNsRWmgZauSZAm3LHo3
 
 > These links only open for other people once sharing is turned on for each artifact. For a permanent public link, use **GitHub Pages** (see below).
 
